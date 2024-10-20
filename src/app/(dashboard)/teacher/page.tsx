@@ -1,5 +1,5 @@
-import Announcements from "@/app/components/Announcements";
-import BigCalendar from "@/app/components/BigCalendar";
+import Announcements from "@/components/Announcements";
+import BigCalendar from "@/components/BigCalendar";
 
 const TeacherPage = () => {
   return (
